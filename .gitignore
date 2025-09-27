@@ -1,0 +1,15 @@
+# .gitignore 
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.env
+.env.*
+.DS_Store
+
+build/
+dist/
+*.egg-info/
